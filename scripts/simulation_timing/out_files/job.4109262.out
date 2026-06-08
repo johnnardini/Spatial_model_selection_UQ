@@ -1,0 +1,454 @@
+
+Currently Loaded Modules:
+  1) autotools    4) hwloc/2.7.2        7) openmpi4/4.1.1  10) gcc/deprecated
+  2) prun/2.2     5) ucx/1.15.0         8) tcnjhpc
+  3) gnu9/9.4.0   6) libfabric/1.19.0   9) ohpc
+
+ 
+
+Starting on Wed May 20 14:30:25 EDT 2026
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    save_data(p, result, time_elapsed, resultsDir)
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    ABM_simulation(param,
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 96, in <module>
+    ABM_simulation(param,
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 42, in ABM_simulation
+    save_data(p, result, time_elapsed, resultsDir)
+TypeError: save_data() takes 3 positional arguments but 4 were given
+slurmstepd-node002: error: *** JOB 4109262 ON node002 CANCELLED AT 2026-05-20T14:32:01 ***

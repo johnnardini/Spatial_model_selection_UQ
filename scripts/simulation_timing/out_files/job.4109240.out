@@ -1,0 +1,505 @@
+
+Currently Loaded Modules:
+  1) autotools    4) hwloc/2.7.2        7) openmpi4/4.1.1  10) gcc/deprecated
+  2) prun/2.2     5) ucx/1.15.0         8) tcnjhpc
+  3) gnu9/9.4.0   6) libfabric/1.19.0   9) ohpc
+
+ 
+
+Starting on Wed May 20 14:14:28 EDT 2026
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+    resultsDir=dir_,
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+               ^^^^
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 100, in <module>
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+    resultsDir=dir_,
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+               ^^^^
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+    resultsDir=dir_,
+               ^^^^
+NameError: name 'dir_' is not defined. Did you mean: 'dir'?
+slurmstepd-node002: error: *** JOB 4109240 ON node002 CANCELLED AT 2026-05-20T14:15:11 ***

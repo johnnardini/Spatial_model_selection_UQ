@@ -1,0 +1,9 @@
+
+Currently Loaded Modules:
+  1) autotools    4) hwloc/2.7.2        7) openmpi4/4.1.1  10) gcc/deprecated
+  2) prun/2.2     5) ucx/1.15.0         8) tcnjhpc
+  3) gnu9/9.4.0   6) libfabric/1.19.0   9) ohpc
+
+ 
+
+Starting on Wed May 20 14:32:18 EDT 2026

@@ -1,0 +1,720 @@
+
+Currently Loaded Modules:
+  1) autotools    4) hwloc/2.7.2        7) openmpi4/4.1.1  10) gcc/deprecated
+  2) prun/2.2     5) ucx/1.15.0         8) tcnjhpc
+  3) gnu9/9.4.0   6) libfabric/1.19.0   9) ohpc
+
+ 
+
+Starting on Wed May 20 14:27:39 EDT 2026
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+Traceback (most recent call last):
+  File "/home/hpc/nardinij/WH_ABMs/scripts/simulation_timing/ABM_simulations.py", line 6, in <module>
+    from src.ABM_package import ABM_simulation
+  File "/home/hpc/nardinij/WH_ABMs/src/ABM_package.py", line 33
+    time_elapsed = time.time() = time0
+                   ^^^^^^^^^^^
+SyntaxError: cannot assign to function call
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[51698,1],7]
+  Exit code:    1
+--------------------------------------------------------------------------
