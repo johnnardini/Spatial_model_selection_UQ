@@ -19,10 +19,10 @@ Files are programmatically constructed using the following token pattern:
     * `WH` (Wound Healing data) or 
     * `artificial` (Synthetic data).
 * **`{condition}`**: The specific profile ID being evaluated. 
-    * `dens_10` (for WH Dataset 10K), 
-    * `dens_12`(for WH Dataset 12K),
+    * `dens_10` (for Wound Healing Dataset 10K), 
+    * `dens_12`(for Wound Healing Dataset 12K),
     * ..., 
-    * `dens_20` (for WH Dataset 20K) or 
+    * `dens_20` (for Wound Healing Dataset 20K) or 
     * `simulation_0` (for Artificial Dataset 1), 
     * `simulation_1` (for Artificial Dataset 2), 
     * ..., 
