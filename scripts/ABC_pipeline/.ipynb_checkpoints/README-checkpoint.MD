@@ -10,6 +10,8 @@ This directory contains the `.py` files necessary to run the ABC pipeline.
 ## Running the files
 The four `.sh` files can be used to run the pipeline for the ABC/PDE models on the Artificial/Wound healing data. This code can be run as using `sbatch`, for example:
 
-'''sbatch MPI_artificial_PDE_uniform_sampling.sh'''
+```
+sbatch MPI_artificial_PDE_uniform_sampling.sh
+```
 
 Note that while the PDE codes complete in seconds, the ABM codes take on the order of days to compute.
