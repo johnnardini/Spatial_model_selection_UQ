@@ -21,7 +21,6 @@ Directory paths are programmatically constructed using the following token patte
     
 ## Loading files into memory
 The following code can be used to load a histogram into memory:
-```
-mat = np.load("posterior_samples/ABC_rm_pint_rp_a0_a1_posterior_sampling_ABM_artificial_simulation_0_pred_final/mean_info.npy",allow_pickle=True).item()```
+'''mat = np.load("posterior_samples/ABC_rm_pint_rp_a0_a1_posterior_sampling_ABM_artificial_simulation_0_pred_final/mean_info.npy",allow_pickle=True).item()'''
 
 Here, `mat` will be a `dict` containing the keys: `mean`, `mean_prediction`, `MAP`, `MAP_prediction`
